@@ -586,7 +586,6 @@ iframe {
 }
 
 /* --   Hack Microsoft edge et IE11 qui gèrent difficilement le hover sur la balise iframe   -- */
-@charset "";
 _:-ms-lang(x), iframe {
     z-index: 2; /* La carte passe devant le fond bleu */
 }
